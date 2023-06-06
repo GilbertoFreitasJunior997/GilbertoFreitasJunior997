@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GilbertoFreitasJunior997
 - From Brazil :brazil:
-- My email is gilbertofreitas997@gmail.com
-- Junior FullStack Developer ( .NET + React )
+- Contact: gilbertofreitas997@gmail.com
+- Mid-Level React Developer
