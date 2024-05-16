@@ -3,4 +3,4 @@
 - Contact: gilbertofreitas997@gmail.com
 - React Developer
 
-- Linkedin: https://www.linkedin.com/in/gilberto-freitas-j%C3%BAnior-575362212/
+- Linkedin: [https://www.linkedin.com/in/gilberto-freitas-j%C3%BAnior-575362212/](https://www.linkedin.com/in/gilberto-freitas-junior-575362212/)
