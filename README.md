@@ -12,14 +12,7 @@ I bring a unique combination of technical expertise and leadership to the progra
 - **Frameworks & Libraries**: React, Next.js, Node.js
 - **Tools & Platforms**: GitHub, Docker, Firebase, Vercel, Bun
 - **Database**: Postgres, MySQL, Firestore
-
-## Key Projects 📚
-
-### YourERP - Simplified ERP system
-An ERP system using HonoJS, TypeScript, Bun, Drizzle, and Postgres. It features modules for inventory management, accounts payable/receivable, and supplier/customer management. (in development)
-
-You can view these and more on my [GitHub](https://github.com/GilbertoFreitasJunior997).
-
+  
 ## Leadership & Advocacy 🌟
 
 - **Harmonit**: I mentored and guided a team of developers to enhance code quality and project efficiency, resulting in significant performance improvements.
